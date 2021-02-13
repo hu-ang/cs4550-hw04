@@ -1,0 +1,7 @@
+<div class="row">
+  <div class="column">
+    <p><%= link "← go back", to: "/" %></p>
+    <h2>Is it a palindrome?!?!?!</h2>
+    <p><%= @p %> = <%= @q %></p>
+  </div>
+</div>
